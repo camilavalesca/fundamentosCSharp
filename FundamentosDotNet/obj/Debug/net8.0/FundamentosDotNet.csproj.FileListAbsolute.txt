@@ -1,0 +1,28 @@
+C:\Users\Mila\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.exe
+C:\Users\Mila\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.deps.json
+C:\Users\Mila\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.runtimeconfig.json
+C:\Users\Mila\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.dll
+C:\Users\Mila\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.pdb
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.AssemblyInfoInputs.cache
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.AssemblyInfo.cs
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.dll
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\refint\FundamentosDotNet.dll
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.pdb
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.genruntimeconfig.cache
+C:\Users\Mila\FundamentosDotNet\obj\Debug\net8.0\ref\FundamentosDotNet.dll
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.exe
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.deps.json
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.runtimeconfig.json
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.dll
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\bin\Debug\net8.0\FundamentosDotNet.pdb
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.AssemblyInfoInputs.cache
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.AssemblyInfo.cs
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.dll
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\refint\FundamentosDotNet.dll
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.pdb
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\FundamentosDotNet.genruntimeconfig.cache
+C:\Users\Mila\OneDrive\Área de Trabalho\FundamentosDotNet\obj\Debug\net8.0\ref\FundamentosDotNet.dll
